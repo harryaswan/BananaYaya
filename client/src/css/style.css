@@ -1,0 +1,17 @@
+body, html {
+    height: 100%;
+}
+
+body {
+    background: url("/src/img/yaya_banana.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:center;
+    background-color: #099;
+}
+.poke-display {
+    display: inline-block;
+}
+img {
+    width: 200px;
+}
